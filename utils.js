@@ -26,7 +26,9 @@ const translations = {
         skill_cloud: 'Cloud & MLOps',
         skill_ai: 'Data Science & AI',
         tag_agents: 'Agentes de IA',
-        footer_rights: 'Todos os direitos reservados.'
+        footer_rights: 'Todos os direitos reservados.',
+        // Nova chave adicionada:
+        contact_title: 'Contato'
     },
     'en': {
         btn_text: 'Português',
@@ -53,7 +55,9 @@ const translations = {
         skill_cloud: 'Cloud & MLOps',
         skill_ai: 'Data Science & AI',
         tag_agents: 'AI Agents',
-        footer_rights: 'All rights reserved.'
+        footer_rights: 'All rights reserved.',
+        // Nova chave adicionada:
+        contact_title: 'Contact'
     }
 };
 
