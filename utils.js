@@ -28,7 +28,11 @@ const translations = {
         tag_agents: 'Agentes de IA',
         footer_rights: 'Todos os direitos reservados.',
         // Nova chave adicionada:
-        contact_title: 'Contato'
+        contact_title: 'Contato',
+        linkedin_text: 'Conectar no LinkedIn',
+        // No objeto 'pt'
+        nav_portfolio: 'Portfólio',
+        nav_articles: 'Artigos',
     },
     'en': {
         btn_text: 'Português',
@@ -57,7 +61,11 @@ const translations = {
         tag_agents: 'AI Agents',
         footer_rights: 'All rights reserved.',
         // Nova chave adicionada:
-        contact_title: 'Contact'
+        contact_title: 'Contact',
+        linkedin_text: 'Connect on LinkedIn',
+        // No objeto 'en'
+        nav_portfolio: 'Portfolio',
+        nav_articles: 'Articles',
     }
 };
 
