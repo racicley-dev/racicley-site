@@ -27,12 +27,17 @@ const translations = {
         skill_ai: 'Data Science & AI',
         tag_agents: 'Agentes de IA',
         footer_rights: 'Todos os direitos reservados.',
-        // Nova chave adicionada:
         contact_title: 'Contato',
         linkedin_text: 'Conectar no LinkedIn',
-        // No objeto 'pt'
         nav_portfolio: 'Portfólio',
         nav_articles: 'Artigos',
+        portfolio_title: 'Ideias de Projetos para Portfólio',
+        portfolio_mlops: 'CI/CD automatizado para ML com versionamento de modelos, testes e deploy em produção usando DVC, GitHub Actions e SageMaker.',
+        portfolio_forecast: 'Modelo de série temporal com LSTM/Prophet para prever demanda de vendas, integrado com API REST e dashboard real-time.',
+        portfolio_agent: 'Chatbot/Agente com LLM que responde perguntas sobre dados estruturados, integrado com Bedrock/Vertex AI e RAG.',
+        portfolio_anomaly: 'Detecção de fraudes ou anomalias em transações usando Isolation Forest ou Autoencoders, com alertas em tempo real.',
+        portfolio_etl: 'Pipeline ETL com Spark/Airflow processando GB de dados, com qualidade de dados e governança implementada.',
+        portfolio_dashboard: 'Dashboard interativo com Streamlit/Plotly mostrando métricas de negócio, A/B testing e insights preditivos.',
     },
     'en': {
         btn_text: 'Português',
@@ -60,12 +65,17 @@ const translations = {
         skill_ai: 'Data Science & AI',
         tag_agents: 'AI Agents',
         footer_rights: 'All rights reserved.',
-        // Nova chave adicionada:
         contact_title: 'Contact',
         linkedin_text: 'Connect on LinkedIn',
-        // No objeto 'en'
         nav_portfolio: 'Portfolio',
         nav_articles: 'Articles',
+        portfolio_title: 'Portfolio Project Ideas',
+        portfolio_mlops: 'Automated CI/CD for ML with model versioning, testing and production deployment using DVC, GitHub Actions and SageMaker.',
+        portfolio_forecast: 'Time series model with LSTM/Prophet to forecast sales demand, integrated with REST API and real-time dashboard.',
+        portfolio_agent: 'Chatbot/Agent with LLM that answers questions about structured data, integrated with Bedrock/Vertex AI and RAG.',
+        portfolio_anomaly: 'Fraud and anomaly detection in transactions using Isolation Forest or Autoencoders, with real-time alerts.',
+        portfolio_etl: 'ETL pipeline with Spark/Airflow processing GB of data, with data quality and governance implemented.',
+        portfolio_dashboard: 'Interactive dashboard with Streamlit/Plotly showing business metrics, A/B testing and predictive insights.',
     }
 };
 
